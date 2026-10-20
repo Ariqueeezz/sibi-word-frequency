@@ -1,0 +1,15 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+minio.env
+.env
+
+# Temporary pipeline data
+data/staging/
+pipeline/data/staging/
+
+# Local generated extraction data
+data/extracted/

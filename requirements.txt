@@ -1,0 +1,7 @@
+boto3
+PyMuPDF
+python-dotenv
+pandas
+streamlit
+matplotlib
+wordcloud
